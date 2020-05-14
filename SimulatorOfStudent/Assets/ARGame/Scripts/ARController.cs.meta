@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b3cf0340134d6843be3a61f47945b54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GridPrefab: {instanceID: 0}
+  - Dormitory: {instanceID: 0}
+  - ARCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
